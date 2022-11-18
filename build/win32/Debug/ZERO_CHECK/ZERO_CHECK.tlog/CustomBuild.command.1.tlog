@@ -1,0 +1,10 @@
+^D:\PROJECT\THRDPOOL_TEST\BUILD\CMAKEFILES\9A5ACD63C83E6135D246A960415C7C20\GENERATE.STAMP.RULE
+setlocal
+C:\Users\Administrator\scoop\apps\cmake\3.24.2\bin\cmake.exe -SD:/Project/thrdpool_test -BD:/Project/thrdpool_test/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Project/thrdpool_test/build/thrdpool_test.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

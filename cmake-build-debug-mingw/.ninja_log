@@ -1,0 +1,10 @@
+# ninja log v5
+49	327	6890594151383188	build.ninja	9871207814c3c93a
+81	180	6890576197477869	lib/libthrdpool.a	9c610063cdfc397d
+0	48	0	D:/Project/thrdpool_test/cmake-build-debug-mingw/CMakeFiles/cmake.verify_globs	cb47118b19e505eb
+0	81	6890576196477868	lib/CMakeFiles/thrdpool.dir/lib.cpp.obj	24ec606b0778f75e
+3	65	6890576998919296	app/CMakeFiles/app.dir/__/lib/lib.cpp.obj	39ec7afd73246631
+2	191	6890594090663505	app/CMakeFiles/app.dir/app.cpp.obj	85400ea4f4487ebe
+195	296	6890583092259604	app/app.exe	93e8881367bf3a42
+0	49	0	D:/Project/thrdpool_test/cmake-build-debug-mingw/CMakeFiles/cmake.verify_globs	cb47118b19e505eb
+7	71	0	D:/Project/thrdpool_test/cmake-build-debug-mingw/CMakeFiles/cmake.verify_globs	cb47118b19e505eb

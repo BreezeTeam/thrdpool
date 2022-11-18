@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/Project/thrdpool_test/build/lib",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-0\\213.7172.20\\bin\\mingw\\bin\\g++.exe  @CMakeFiles/thrdpool.dir/includes_CXX.rsp -g -o CMakeFiles\\thrdpool.dir\\lib.cpp.obj -c D:\\Project\\thrdpool_test\\lib\\lib.cpp",
+  "file": "D:/Project/thrdpool_test/lib/lib.cpp"
+},
+{
+  "directory": "D:/Project/thrdpool_test/build/app",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\JetBrains\\Toolbox\\apps\\CLion\\ch-0\\213.7172.20\\bin\\mingw\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -o CMakeFiles\\app.dir\\app.cpp.obj -c D:\\Project\\thrdpool_test\\app\\app.cpp",
+  "file": "D:/Project/thrdpool_test/app/app.cpp"
+}
+]

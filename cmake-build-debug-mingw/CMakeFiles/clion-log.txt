@@ -1,0 +1,12 @@
+C:\Users\Administrator\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.7172.20\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Administrator/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.7172.20/bin/ninja/win/ninja.exe -G Ninja D:\Project\thrdpool_test
+-- ============================================
+-- thrdpool_library
+-- include/*
+-- lib.cpp
+-- 
+-- D:/Project/thrdpool_test/include/list.h;D:/Project/thrdpool_test/include/thrdpool.c;D:/Project/thrdpool_test/include/thrdpool.h
+-- ============================================
+-- 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Project/thrdpool_test/cmake-build-debug-mingw

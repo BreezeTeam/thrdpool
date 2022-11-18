@@ -1,0 +1,10 @@
+^D:\PROJECT\THRDPOOL_TEST\LIB\CMAKELISTS.TXT
+setlocal
+C:\Users\Administrator\scoop\apps\cmake\3.24.2\bin\cmake.exe -SD:/Project/thrdpool_test -BD:/Project/thrdpool_test/build --check-stamp-file D:/Project/thrdpool_test/build/lib/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,11 @@
+D:/Project/thrdpool_test/build/CMakeFiles/Experimental.dir
+D:/Project/thrdpool_test/build/CMakeFiles/Nightly.dir
+D:/Project/thrdpool_test/build/CMakeFiles/Continuous.dir
+D:/Project/thrdpool_test/build/CMakeFiles/NightlyMemoryCheck.dir
+D:/Project/thrdpool_test/build/CMakeFiles/RUN_TESTS.dir
+D:/Project/thrdpool_test/build/CMakeFiles/ALL_BUILD.dir
+D:/Project/thrdpool_test/build/CMakeFiles/ZERO_CHECK.dir
+D:/Project/thrdpool_test/build/lib/CMakeFiles/thrdpool.dir
+D:/Project/thrdpool_test/build/lib/CMakeFiles/RUN_TESTS.dir
+D:/Project/thrdpool_test/build/app/CMakeFiles/app.dir
+D:/Project/thrdpool_test/build/app/CMakeFiles/RUN_TESTS.dir
